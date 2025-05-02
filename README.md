@@ -31,7 +31,7 @@
 - 🌍 Cross-Language Transliteration & Translation
 - 📱 Mobile App Development with cloud-native features
 - 🧠 AI/ML from scratch using NumPy, Pandas
-- 🧪 Research in Animal Behavior (Computer Vision)
+- 🧪 Research in NLP, IR, MACHINE LEARNING
 
 
 ## 📬 Let's Connect!
