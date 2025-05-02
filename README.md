@@ -33,15 +33,6 @@
 - 🧠 AI/ML from scratch using NumPy, Pandas
 - 🧪 Research in Animal Behavior (Computer Vision)
 
----
-
-## 📈 GitHub Stats
-
-![Nilendu's GitHub stats](https://github-readme-stats.vercel.app/api?username=nilendu-adhikary&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nilendu-adhikary&layout=compact&theme=radical)
-
----
 
 ## 📬 Let's Connect!
 
