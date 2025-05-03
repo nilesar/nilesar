@@ -37,7 +37,7 @@
 ## 📬 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nilendu-adhikary/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nilendu.adhikary.cse25@iitbhu.ac.in)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nilendu.adhikary.cd.cse23@iitbhu.ac.in)
 
 ---
 
