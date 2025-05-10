@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Nilendu Adhikary!
 
-🎓 **Sophomore at IIT (BHU), Varanasi**  
+🎓 **3rd Year Undergraduate Student at IIT (BHU), Varanasi**  
 💻 Passionate about **Flutter Development**, **AI/ML**, and **Full-Stack Web Development**  
 📱 Currently building offline TTS & translation-based apps, and cloud-integrated mobile dashboards  
 🌐 Working on projects involving **Firebase**, **Google Drive API**, **Flask**, **Coqui TTS**, and more
@@ -36,7 +36,7 @@
 
 ## 📬 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nilendu-adhikary/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nilendu-adhikary-47a10227b/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nilendu.adhikary.cd.cse23@iitbhu.ac.in)
 
 ---
