@@ -1,9 +1,9 @@
 # 👋 Hi there, I'm Nilendu Adhikary!
 
 🎓 **3rd Year Undergraduate Student at IIT (BHU), Varanasi**  
-💻 Passionate about **Flutter Development**, **AI/ML**, and **Full-Stack Web Development**  
+💻 Passionate about **AI/ML**,**Flutter Development** and **Full-Stack Web Development**  
 📱 Currently building offline TTS & translation-based apps, and cloud-integrated mobile dashboards  
-🌐 Working on projects involving **Firebase**, **Google Drive API**, **Flask**, **Coqui TTS**, and more
+🌐 Working on projects involving **Code-Mix Text Generation**, **Machine Learning Application**, **RNN & NLP**, **TTS(Text to Speech generation)**, and more
 
 ---
 
