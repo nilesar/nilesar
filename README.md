@@ -41,4 +41,4 @@
 
 ---
 
-_“Building things that bridge accessibility, language, and technology.”_
+
